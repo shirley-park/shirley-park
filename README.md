@@ -1,7 +1,5 @@
-### Hi there 👋
+## Hi there 👋 I’m Shirley,
 
-<!--
-**shirley-park/shirley-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👋 Hi, I’m Shirley,
 👩🏻‍💻 I am a full stack developer and a recent graduate of Dev Academy Aotearoa
